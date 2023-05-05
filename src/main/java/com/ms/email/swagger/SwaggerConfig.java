@@ -20,7 +20,7 @@ public class SwaggerConfig {
             "Lucas Sousa", "https://github.com/SrSousa011/", "lucas.sousa_99@hotmail.com");
 
     private static final ApiInfo DEFAULT_API_INFO = new ApiInfo(
-            "PetShop API", "Sistema de controle de atendimentos de uma petshop", "1.0",
+            "Customer Orders", "This is a Client Orders service with an email notification when any HttpStatus is used", "1.0",
             "urn:tos", DEFAULT_CONTACT,
             "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0", Collections.emptyList()
     );
