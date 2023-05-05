@@ -1,4 +1,4 @@
-# Spring Boot + MENSAGERIA + Postgres Database + Swagger-UI 2
+# Spring Boot + Mensageria + Postgres Database + Swagger-UI 2
 
 <hr>
 
