@@ -33,7 +33,7 @@ $ mvn spring-boot:run
 
 
 
-*  Enfim, usamos o mesmo corpo do swagger para poder enviar uma mensagen pelo RabbitMQ
+*  Anyway, we use the same swagger body to be able to send a message through RabbitMQ
 
 
 ![RabbitMQ](/screenshots/mensageriaPublished.png "Mensageria Body")
